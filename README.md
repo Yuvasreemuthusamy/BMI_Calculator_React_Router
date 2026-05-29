@@ -64,8 +64,9 @@ Create routing structure with react-router-dom:
 <li>Add styling using CSS or Tailwind.</li>
 
 ## PROGRAM
+
+BMI.jsx
 ```
-BHI.jsx
 import React, { useState } from 'react';
 
 const Bmi = () => {
@@ -133,8 +134,9 @@ const Bmi = () => {
 
 export default Bmi;
 ```
-```
+
 index.css
+```
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(50deg,rgb(106, 106, 210),rgb(238, 238, 106),rgb(78, 78, 224));
